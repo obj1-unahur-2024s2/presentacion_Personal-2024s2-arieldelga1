@@ -1,6 +1,6 @@
 # Ariel DELGADILLO
 
-Hola, me llamo Ariel, estoy estudiando actualmente en la tecnicatura para programación.
+Hola, me llamo Ariel, estoy estudiando actualmente en la tecnicatura universitaria en programación.
 
 Trabajo en un negocio familiar en horarios rotativos y el resto del tiempo lo dedico a aprender sobre el diseño gráfico.
 
